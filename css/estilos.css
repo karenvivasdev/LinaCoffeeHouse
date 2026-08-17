@@ -769,7 +769,7 @@ GALERÍA MASONRY
 
     border-radius:18px;
 
-    transition:.4s;
+     transition: transform .4s ease;
 
 }
 
